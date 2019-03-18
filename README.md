@@ -1,11 +1,12 @@
 # return-of-pokedex
+Welcome to return of pokedex! This is a pokedex app built with Vue and allows you to filter Pokemon by type and attack.
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles to launch live server preview
 ```
 npm run serve
 ```
